@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+body{
+  background-image: url('https://news.phonesltd.co.uk/wp-content/uploads/apple-company-logo-wallpaper.jpg');
+  font-family: 'poppins';
+  line-height: 1.6;
+  width: 600px;
+  margin: auto;
+  color: black;
+}
+form{
+  background-color: rgb(184, 140, 224);
+  padding: 1.5rem 2.5rem;
+  width: 500px;
+  margin: auto;
+}
+.submit-button{
+  width: 100%;
+  padding: 0.5rem;
+  background: rgb(47, 155, 47);
+  color: #fff;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.form-inputs{
+  display: block;
+  width: 90%;
+  height: 2rem;
+  padding: 0.25rem 0.25rem;
+  border: 1px solid;
+  border-radius: 0.25rem;
+}
+p{
+    position: relative;
+    left: 40px;
+}
+h1{
+    position: relative;
+    left: 110px;
+}
